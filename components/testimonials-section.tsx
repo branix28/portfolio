@@ -34,7 +34,7 @@ export default function TestimonialsSection() {
       const defaultTestimonials: Testimonial[] = [
         {
           id: '1',
-          name: 'Sarah Johnson',
+          name: 'Sarah Moore',
           title: 'Marketing Director',
           company: 'Tech Innovations Inc',
           message: 'Bryan completely transformed our email marketing workflows using Zapier. What used to take our team 10 hours per week is now fully automated. His expertise in Make.com also helped us create a seamless integration between our CRM and email platform. Highly recommend!',
